@@ -4,7 +4,17 @@
 </p>
 
 ---
+## 👤**PERSONAL INFORMATION**
 
+**Full Name**   : VINCENT TABILIRAN AMPONG  
+**Address**     : Biswangan, Lakewood, Zamboanga del Sur  
+**Work**        : JHCSC-CMSECAT Staff (_Contract of Service_)  
+**Work Address**: Biswangan, Lakewood, Zamboanga del Sur  
+**Degree**      : Bachelor of Science in Information Technology  
+**Major**       : Computer Programming  
+
+
+---
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **Acivity #2: Hosting a Github Website**
@@ -14,22 +24,9 @@
 - 📫 How to reach me: **vincent.ampong@nmsc.edu.ph**
 - ⚡ Fun fact: **Not a gymnast or something but, very flexible😉**
 
-    
-
----
-
-## 👤**PERSONAL INFORMATION**
-```
-**Full Name**   : VINCENT TABILIRAN AMPONG  
-**Address**     : Biswangan, Lakewood, Zamboanga del Sur  
-**Work**        : JHCSC-CMSECAT Staff (_Contract of Service_)  
-**Work Address**: Biswangan, Lakewood, Zamboanga del Sur  
-**Degree**      : Bachelor of Science in Information Technology  
-**Major**       : Computer Programming  
-```
-
 
     
+---  
 
 ### 📂Activity 02 - Personal Info
 Create a simple web page that display your Picture, Full name, Address, Work, Work Address,  
