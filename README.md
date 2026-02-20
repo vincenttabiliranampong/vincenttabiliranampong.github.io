@@ -4,9 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Vincent%20Ampong&fontSize=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=220&section=header&text=VINCENT%20AMPONG&fontSize=45&fontColor=00ff00&animation=fadeIn" width="100%"/>
 </p>
 
+  
 ---
 ## 👤**PERSONAL INFORMATION**
 
