@@ -1,17 +1,17 @@
 # Hi, Vincent Tabiliran Ampong 👋
 
 <p align="center">
-  <img src="https://your-image-link-here.com/your-photo.jpg" width="200" style="border-radius:50%;" alt="Your Name"/>
+  <img src="https://avatars.githubusercontent.com/u/262466926?v=4" width="200" style="border-radius:50%;" alt="Profile Picture"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[Hosting Github Website]**
-- 🌱 I’m currently learning: **[Technology / Skill]**
-- 👯 I’m looking to collaborate on: **[Open source / Startup / etc.]**
-- 💬 Ask me about: **[Anything]**
+- 🔭 I’m currently working on: **How to Host a Github Website**
+- 🌱 I’m currently learning: **Technology / Skill**
+- 👯 I’m looking to collaborate on: **Open source / Startup / etc.**
+- 💬 Ask me about: **Anything**
 - 📫 How to reach me: **vincent.ampong@nmsc.edu.ph**
 - ⚡ Fun fact: ** Not a gymnast or something but, very flexible 😉**
 
