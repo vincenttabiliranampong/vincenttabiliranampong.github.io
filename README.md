@@ -3,9 +3,9 @@
   <img src="https://avatars.githubusercontent.com/u/262466926?v=4" width="200" style="border-radius:50%;" alt="Profile Picture"/>
 </p>
 
-body {
-  background: linear-gradient(to right, #141e30, #243b55);
-}
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Vincent%20Ampong&fontSize=40&fontColor=ffffff" width="100%"/>
+</p>
 
 ---
 ## 👤**PERSONAL INFORMATION**
