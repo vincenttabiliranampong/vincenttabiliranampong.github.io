@@ -12,46 +12,31 @@
 - 👯 I’m looking to collaborate on: **Open source / Startup / etc.**
 - 💬 Ask me about: **Anything**
 - 📫 How to reach me: **vincent.ampong@nmsc.edu.ph**
-- ⚡ Fun fact: ** Not a gymnast or something but, very flexible 😉**
+- ⚡ Fun fact: **Not a gymnast or something but, very flexible😉**
 
 ---
 
-![👤PERSONAL_INFORMATION](https://img.shields.io/badge/-Language1-000?&logo=👤PERSONAL_INFORMATION)
+## 👤**PERSONAL INFORMATION**
+Full Name   : VINCENT TABILIRAN AMPONG
+Address     : Biswangan, Lakewood, Zamboanga del Sur
+Work        : JHCSC-CMSECAT Staff (_Contract of Service_)
+Work Address: Biswangan, Lakewood, Zamboanga del Sur
+Degree      : Bachelor of Science in Information Technology
+Major       : Computer Programming
 
-![Language3](https://img.shields.io/badge/-Language3-000?&logo=language3)
 
-### Frameworks & Tools
-![Tool1](https://img.shields.io/badge/-Tool1-000?&logo=tool1)
-![Tool2](https://img.shields.io/badge/-Tool2-000?&logo=tool2)
-![Tool3](https://img.shields.io/badge/-Tool3-000?&logo=tool3)
+## 📂 Activity Number 2
 
----
-
-## 📂 Featured Projects
-
-### 🔹 Project Name 1
-Short description of what this project does.  
-🔗 [View Project](https://github.com/yourusername/project-link)
-
-### 🔹 Project Name 2
-Short description of what this project does.  
-🔗 [View Project](https://github.com/yourusername/project-link)
-
----
-
-## 📊 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+### 🔹 Personal info
+Create a simple web page that display your Picture, Full name, Address, Work, Work Address, Degree Earned and Specialization.
+Published your work at GitHub.  
+🔗 [View Project](https://vincenttabiliranampong.github.io/)
 
 ---
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/-Facebook-0077B5?&logo=facebook&logoColor=white)](https://web.facebook.com/vlnce.yap)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
