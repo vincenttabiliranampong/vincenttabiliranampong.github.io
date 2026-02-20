@@ -14,6 +14,8 @@
 - 📫 How to reach me: **vincent.ampong@nmsc.edu.ph**
 - ⚡ Fun fact: **Not a gymnast or something but, very flexible😉**
 
+    
+
 ---
 
 ## 👤**PERSONAL INFORMATION**
@@ -27,9 +29,9 @@
 ```
 
 
-### 📂Activity Number 2
+    
 
-###   Personal info
+### 📂Activity 02 - Personal Info
 Create a simple web page that display your Picture, Full name, Address, Work, Work Address,  
 Degree Earned and Specialization. Published your work at GitHub.  
 🔗 [View Project](https://vincenttabiliranampong.github.io/)
