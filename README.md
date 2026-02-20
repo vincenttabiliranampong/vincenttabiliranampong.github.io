@@ -27,7 +27,7 @@
 - 👯 I’m looking to collaborate on: **Open source / Startup / etc.**
 - 💬 Ask me about: **Anything**
 - 📫 How to reach me: **vincent.ampong@nmsc.edu.ph**
-- ⚡ Fun fact: **Not a gymnast or something but, very flexible😉**
+- ⚡ Fun fact: **Not a gymnast or something but, very flexible 😉**
 
 
     
