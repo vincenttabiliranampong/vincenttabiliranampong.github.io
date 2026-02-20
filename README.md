@@ -17,12 +17,14 @@
 ---
 
 ## 👤**PERSONAL INFORMATION**
-**Full Name   :** VINCENT TABILIRAN AMPONG  
-**Address     :** Biswangan, Lakewood, Zamboanga del Sur  
-**Work        :** JHCSC-CMSECAT Staff (_Contract of Service_)  
+<pre>
+**Full Name**   : VINCENT TABILIRAN AMPONG  
+**Address**     : Biswangan, Lakewood, Zamboanga del Sur  
+**Work**        : JHCSC-CMSECAT Staff (_Contract of Service_)  
 **Work Address**: Biswangan, Lakewood, Zamboanga del Sur  
 **Degree**      : Bachelor of Science in Information Technology  
-**Major**       : Computer Programming
+**Major**       : Computer Programming  
+</pre>
 
 
 ## 📂 Activity Number 2
