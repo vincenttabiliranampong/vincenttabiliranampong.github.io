@@ -16,10 +16,8 @@
 
 ---
 
-### 👨‍💼 ![Personal Information].(https://img.shields.io/badge/-Language1-000?&logo=PERSONAL INFORMATION)
+![👤PERSONAL_INFORMATION](https://img.shields.io/badge/-Language1-000?&logo=👤PERSONAL_INFORMATION)
 
-![Language1](https://img.shields.io/badge/-Language1-000?&logo=language1)
-![Language2](https://img.shields.io/badge/-Language2-000?&logo=language2)
 ![Language3](https://img.shields.io/badge/-Language3-000?&logo=language3)
 
 ### Frameworks & Tools
