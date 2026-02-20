@@ -17,19 +17,19 @@
 ---
 
 ## 👤**PERSONAL INFORMATION**
-<pre>
+```
 **Full Name**   : VINCENT TABILIRAN AMPONG  
 **Address**     : Biswangan, Lakewood, Zamboanga del Sur  
 **Work**        : JHCSC-CMSECAT Staff (_Contract of Service_)  
 **Work Address**: Biswangan, Lakewood, Zamboanga del Sur  
 **Degree**      : Bachelor of Science in Information Technology  
 **Major**       : Computer Programming  
-</pre>
+```
 
 
-## 📂 Activity Number 2
+### 📂Activity Number 2
 
-### 🔹 Personal info
+###   Personal info
 Create a simple web page that display your Picture, Full name, Address, Work, Work Address,  
 Degree Earned and Specialization. Published your work at GitHub.  
 🔗 [View Project](https://vincenttabiliranampong.github.io/)
