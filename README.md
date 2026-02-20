@@ -3,6 +3,10 @@
   <img src="https://avatars.githubusercontent.com/u/262466926?v=4" width="200" style="border-radius:50%;" alt="Profile Picture"/>
 </p>
 
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+}
+
 ---
 ## 👤**PERSONAL INFORMATION**
 
