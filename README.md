@@ -1,4 +1,3 @@
-# Hi, Vincent Tabiliran Ampong 👋
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/262466926?v=4" width="200" style="border-radius:50%;" alt="Profile Picture"/>
@@ -8,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **How to Host a Github Website**
+- 🔭 I’m currently working on: **Acivity #2: Hosting a Github Website**
 - 🌱 I’m currently learning: **Technology / Skill**
 - 👯 I’m looking to collaborate on: **Open source / Startup / etc.**
 - 💬 Ask me about: **Anything**
@@ -17,9 +16,8 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💼 ![Personal Information].(https://img.shields.io/badge/-Language1-000?&logo=PERSONAL INFORMATION)
 
-### Languages
 ![Language1](https://img.shields.io/badge/-Language1-000?&logo=language1)
 ![Language2](https://img.shields.io/badge/-Language2-000?&logo=language2)
 ![Language3](https://img.shields.io/badge/-Language3-000?&logo=language3)
